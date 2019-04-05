@@ -11,9 +11,9 @@ import "C"
 
 import (
 	"errors"
-	"github.com/moovweb/gokogiri/help"
-	. "github.com/moovweb/gokogiri/util"
-	"github.com/moovweb/gokogiri/xml"
+	"github.com/merj/gokogiri/help"
+	. "github.com/merj/gokogiri/util"
+	"github.com/merj/gokogiri/xml"
 	//"runtime"
 	"unsafe"
 )
